@@ -1,0 +1,2 @@
+# kurssi
+Data-analytiikan kurssimateriaalia
